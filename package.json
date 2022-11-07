@@ -1,0 +1,21 @@
+{
+  "name": "gapstars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "type": "module",
+  "author": "Janitha Silva",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "minimist": "^1.2.7",
+    "node-fetch": "^3.2.10",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "sharp": "^0.31.2"
+  }
+}
